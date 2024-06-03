@@ -1,2 +1,2 @@
-# Event-Registration-Website
-Developed a project to enhance user experience and simplify the event Registration process 
+# samanvay
+This is a colloge fest registration website for students.
